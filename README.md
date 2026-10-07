@@ -20,10 +20,10 @@
 ### 主要项目
 
 - **DMD-System** — 面向生成模型蒸馏训练的系统优化，关注执行调度、显存管理与 GPU 性能分析。代码暂未公开。
-- **[Video Agent](https://github.com/sliortega295-ops/vedio-agent)** — 自回归音视频 Agent 原型，探索提示词规划、候选验证与逐块生成控制；当前在[开发分支](https://github.com/sliortega295-ops/vedio-agent/tree/arav/verified-prefix-v0/ar_av_agent)推进。
 
 ### 开源贡献
 
-已合并的贡献：[torch-rechub 的模型文档](https://github.com/datawhalechina/torch-rechub/pull/188)。
+- **[CryptPad #2229](https://github.com/cryptpad/cryptpad/pull/2229)** — 修复只读模式下目录链接无法跳转的问题，已合并。
+- **torch-rechub** — 补充推荐模型使用文档（[#185](https://github.com/datawhalechina/torch-rechub/pull/185)、[#188](https://github.com/datawhalechina/torch-rechub/pull/188)），已合并。
 
 [GitHub](https://github.com/sliortega295-ops)
